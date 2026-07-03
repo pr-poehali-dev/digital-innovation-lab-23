@@ -19,11 +19,11 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="https://cdn.poehali.dev/projects/f765a61f-bf87-4b42-ba20-009a76791e9a/files/8f64dff2-2ebb-4f26-a028-f3b0817c1930.jpg"
+          src="https://cdn.poehali.dev/projects/f765a61f-bf87-4b42-ba20-009a76791e9a/bucket/c1357446-84f3-4637-8924-19a59efda0f0.jpg"
           alt="Магазин Красное и Белое"
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-black/50" />
+        <div className="absolute inset-0 bg-black/40" />
       </motion.div>
 
       <div className="relative z-10 text-center text-white px-6">
