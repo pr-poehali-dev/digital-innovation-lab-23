@@ -12,7 +12,7 @@ export default function Hero() {
   return (
     <div
       ref={container}
-      className="relative flex items-center justify-center h-screen overflow-hidden"
+      className="relative flex items-end justify-center h-screen overflow-hidden pb-16 md:pb-24"
     >
       <motion.div
         style={{ y }}
